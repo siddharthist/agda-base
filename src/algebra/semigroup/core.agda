@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K  #-}
+{-# OPTIONS --safe --without-K  #-}
 module algebra.semigroup.core where
 
 open import level

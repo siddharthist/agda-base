@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 module container.m.from-nat where
 
 open import container.m.from-nat.core public

@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K  #-}
+{-# OPTIONS --safe --without-K  #-}
 module equality.inspect where
 
 open import level

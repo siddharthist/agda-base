@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 module sets.nat.ordering.properties where
 
 open import function.isomorphism

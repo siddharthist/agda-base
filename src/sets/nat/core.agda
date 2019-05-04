@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K  #-}
+{-# OPTIONS --safe --without-K  #-}
 module sets.nat.core where
 
 open import level

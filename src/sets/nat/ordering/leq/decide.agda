@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 module sets.nat.ordering.leq.decide where
 
 open import decidable

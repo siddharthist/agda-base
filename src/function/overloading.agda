@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 
 module function.overloading {i j}{X : Set i}{Y : Set j} where
 

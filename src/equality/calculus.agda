@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 module equality.calculus where
 
 open import sum using (Σ ; _,_ ; proj₁; proj₂)

@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 module sets.nat.ordering.lt where
 
 open import sets.nat.ordering.lt.core public

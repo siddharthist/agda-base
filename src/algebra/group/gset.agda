@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 open import level
 open import algebra.group.core
 open import algebra.monoid.mset

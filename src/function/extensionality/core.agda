@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 module function.extensionality.core where
 
 open import level using (lsuc; _⊔_)

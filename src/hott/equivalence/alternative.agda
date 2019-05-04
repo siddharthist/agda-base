@@ -1,4 +1,4 @@
-{-# OPTIONS --without-K #-}
+{-# OPTIONS --safe --without-K #-}
 open import function.extensionality.core
 
 module hott.equivalence.alternative where
